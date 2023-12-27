@@ -1,0 +1,12 @@
+C:\muckhac\Learning\LTGD\chuong3\chuong3\bin\Debug\chuong3.exe.config
+C:\muckhac\Learning\LTGD\chuong3\chuong3\bin\Debug\chuong3.exe
+C:\muckhac\Learning\LTGD\chuong3\chuong3\bin\Debug\chuong3.pdb
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.csproj.AssemblyReference.cache
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.Form1.resources
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.Properties.Resources.resources
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.triangle.resources
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.csproj.GenerateResource.cache
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.csproj.CoreCompileInputs.cache
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.exe
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.pdb
+C:\muckhac\Learning\LTGD\chuong3\chuong3\obj\Debug\chuong3.BTLT_hinhTron.resources

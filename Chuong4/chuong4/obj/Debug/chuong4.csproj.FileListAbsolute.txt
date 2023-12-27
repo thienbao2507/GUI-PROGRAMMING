@@ -1,0 +1,15 @@
+C:\muckhac\Learning\LTGD\chuong4\chuong4\bin\Debug\chuong4.exe.config
+C:\muckhac\Learning\LTGD\chuong4\chuong4\bin\Debug\chuong4.exe
+C:\muckhac\Learning\LTGD\chuong4\chuong4\bin\Debug\chuong4.pdb
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.csproj.AssemblyReference.cache
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.Form1.resources
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.Properties.Resources.resources
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.csproj.GenerateResource.cache
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.csproj.CoreCompileInputs.cache
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.exe
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.pdb
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.bai3.resources
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.bai4.resources
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.FormSignIn.resources
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.BTLT1.resources
+C:\muckhac\Learning\LTGD\chuong4\chuong4\obj\Debug\chuong4.Editor.resources

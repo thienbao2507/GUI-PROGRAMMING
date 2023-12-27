@@ -1,0 +1,28 @@
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\bin\Debug\BaiThucHanhChuong2.exe.config
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\bin\Debug\BaiThucHanhChuong2.exe
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\bin\Debug\BaiThucHanhChuong2.pdb
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.csproj.AssemblyReference.cache
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form1.resources
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Properties.Resources.resources
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.csproj.GenerateResource.cache
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.exe
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.pdb
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form3.resources
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form4.resources
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form5.resources
+D:\Dai Hoc\Lap Trinh Giao Dien\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form6.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\bin\Debug\BaiThucHanhChuong2.exe.config
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\bin\Debug\BaiThucHanhChuong2.exe
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\bin\Debug\BaiThucHanhChuong2.pdb
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.csproj.AssemblyReference.cache
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form1.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form3.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form4.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form5.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Form6.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.Properties.Resources.resources
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.csproj.GenerateResource.cache
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.csproj.CoreCompileInputs.cache
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.exe
+C:\muckhac\Learning\LTGD\BaiThucHanhChuong2\BaiThucHanhChuong2\obj\Debug\BaiThucHanhChuong2.pdb

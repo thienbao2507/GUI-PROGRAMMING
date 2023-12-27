@@ -1,0 +1,12 @@
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\bin\Debug\Chuong8.exe.config
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\bin\Debug\Chuong8.exe
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\bin\Debug\Chuong8.pdb
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.csproj.AssemblyReference.cache
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.FrmDrawText.resources
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.FrmMain.resources
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.Properties.Resources.resources
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.csproj.GenerateResource.cache
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.csproj.CoreCompileInputs.cache
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.exe
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.pdb
+C:\muckhac\Learning\LTGD\Chuong8\Chuong8\obj\Debug\Chuong8.FrmDrawImage.resources

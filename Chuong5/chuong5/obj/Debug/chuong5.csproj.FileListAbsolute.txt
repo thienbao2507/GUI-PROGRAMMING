@@ -1,0 +1,11 @@
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.csproj.AssemblyReference.cache
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.MoveObject.resources
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.Properties.Resources.resources
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.csproj.GenerateResource.cache
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.csproj.CoreCompileInputs.cache
+C:\muckhac\Learning\LTGD\chuong5\chuong5\bin\Debug\chuong5.exe.config
+C:\muckhac\Learning\LTGD\chuong5\chuong5\bin\Debug\chuong5.exe
+C:\muckhac\Learning\LTGD\chuong5\chuong5\bin\Debug\chuong5.pdb
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.exe
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.pdb
+C:\muckhac\Learning\LTGD\chuong5\chuong5\obj\Debug\chuong5.GameTangBong.resources
